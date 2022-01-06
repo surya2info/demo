@@ -4,6 +4,7 @@ class Sample{
     
     System.out.println("Sample");
         System.out.println("line2");
+    System.out.println("line4")
   }
 }
     
